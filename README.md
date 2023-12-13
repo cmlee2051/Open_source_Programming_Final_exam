@@ -1,5 +1,5 @@
 Open_Source_Programming_Final_Exam
- - Final_exam_chungmin_lee
+ - Final_exam_chungmin_lee.py
     - Q1) 부분문자열의 유무 찾기
     - Q2) 모스부호 해독 프로그램
     - Q3) PROGEAMMER-857식 나이 구하기
